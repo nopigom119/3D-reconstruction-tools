@@ -1,3 +1,24 @@
+## 사용 방법 (실행 파일)
+
+본 도구 모음은 별도의 설치 과정 없이 바로 사용할 수 있는 독립 실행 파일(`.exe`) 형태로 제공됩니다.
+
+1.  아래 Google Drive 링크에 접속하여 각 도구의 `.exe` 파일을 다운로드 받으세요:
+    * **[프로그램 다운로드 링크](https://drive.google.com/drive/folders/1zDhQXKZ3tVrTjAo_0T5F1FbfvhAuYhkS?usp=drive_link)**
+2.  다운로드 받은 폴더에서 사용하고자 하는 기능의 `.exe` 파일을 더블 클릭하여 실행합니다.
+3.  각 도구의 상세한 사용법 및 기능은 아래의 해당 도구 설명을 참고하시기 바랍니다.
+
+--------------------------------------------------------------------------
+
+## How to Use (Executable Files)
+
+This tool suite is provided as standalone executable files (`.exe`) that can be used immediately without any installation process.
+
+1.  Access the Google Drive link below to download the `.exe` files for each tool:
+    * **[Program Download Link](https://drive.google.com/drive/folders/1zDhQXKZ3tVrTjAo_0T5F1FbfvhAuYhkS?usp=drive_link)**
+2.  From the downloaded folder, double-click the `.exe` file corresponding to the function you wish to use.
+3.  For detailed instructions and features of each tool, please refer to the respective tool descriptions below.
+
+##########################################################################
 # 2D 이미지 기반 3D 재구성 도구 모음
 
 이 저장소는 2D 이미지 시퀀스로부터 3D 포인트 클라우드 모델을 생성하기 위한 GUI 기반 도구 모음입니다. 제공되는 도구들은 다음의 주요 단계를 순차적으로 지원합니다:
@@ -8,6 +29,9 @@
 4.  **PLY 파일 뷰어:** 생성된 `.ply` 형식의 3D 모델 파일을 시각적으로 확인합니다.
 
 각 도구는 독립적인 실행 파일(`.exe`)로 제공되어 복잡한 설정 없이 간편하게 사용할 수 있도록 만들어졌습니다. 아래에서 각 도구의 상세한 기능과 사용 방법을 확인할 수 있습니다.
+
+---
+*(이 아래에 각 도구별 README 내용을 순서대로 추가하시면 됩니다.)*
 
 --------------------------------------------------------------------------
 
@@ -21,6 +45,9 @@ This repository contains a suite of GUI-based tools designed to facilitate the c
 4.  **PLY File Viewer:** Visually inspects the generated 3D model files in `.ply` format.
 
 Each tool is provided as a standalone executable (`.exe`) designed for ease of use without complex setup. Detailed functionality and usage instructions for each tool can be found below.
+
+---
+*(You can add the README content for each tool sequentially below this section.)*
 
 ##########################################################################
 # 이미지 일괄 변환 및 이름 변경 프로그램
