@@ -7,19 +7,19 @@
 
 ### 1. 이슈 등록
 
-* 새로운 기능 제안이나 버그 보고는 **[[Your Project Repository Name] Issues 페이지](https://github.com/[Your GitHub Username]/[Your Project Repository Name]/issues)** 에 등록해주세요.
+* 새로운 기능 제안이나 버그 보고는 **[3D-reconstruction-tools Issues 페이지](https://github.com/nopigom119/3D-reconstruction-tools/issues)** 에 등록해주세요.
 * 이슈 제목은 간결하고 명확하게 작성해주세요. (예: "[SfM] PnP 실패 시 로그 개선", "[Viewer] 특정 PLY 파일 로딩 오류")
 * 이슈 내용에는 문제 상황(어떤 도구에서, 어떤 입력으로, 어떤 문제가 발생하는지)이나 제안 내용을 상세하게 설명해주세요. 스크린샷이나 로그 메시지를 첨부하면 도움이 됩니다.
 
 ### 2. 코드 기여
 
-1.  **[[Your Project Repository Name] 저장소](https://github.com/[Your GitHub Username]/[Your Project Repository Name])** 를 포크해주세요.
-2.  포크한 저장소에서 새로운 브랜치를 만들고 코드를 작성해주세요.
-    * 브랜치 이름은 기여하려는 도구 이름, 기능 이름이나 이슈 번호를 포함해주세요. (예: `feature/sfm-bundle-adjustment`, `bugfix/k-estimator-path-error-15`)
-3.  작성한 코드는 [PEP 8](https://www.python.org/dev/peps/pep-0008/) 코딩 스타일 가이드라인을 준수해주세요.
-4.  변경 사항을 테스트하고, 특히 로직 변경 시에는 다양한 입력에 대해 테스트해주세요. (필요한 경우 테스트 코드 작성)
-5.  커밋 메시지는 간결하고 명확하게 작성해주세요. 변경 사항이 어떤 도구에 영향을 미치는지 명시하면 좋습니다. (예: `feat(SfM): Add bundle adjustment option`, `fix(Viewer): Handle PLY loading exception for #22`)
-6.  **[[Your Project Repository Name] Pull Requests 페이지](https://github.com/[Your GitHub Username]/[Your Project Repository Name]/pulls)** 로 풀 리퀘스트를 보내주세요.
+1.  **[3D-reconstruction-tools 저장소](https://github.com/nopigom119/3D-reconstruction-tools)** 를 포크해주세요.
+2.  포크한 저장소에서 새로운 브랜치를 만들고 코드를 작성해주세요.
+    * 브랜치 이름은 기여하려는 도구 이름, 기능 이름이나 이슈 번호를 포함해주세요. (예: `feature/sfm-bundle-adjustment`, `bugfix/k-estimator-path-error-15`)
+3.  작성한 코드는 [PEP 8](https://www.python.org/dev/peps/pep-0008/) 코딩 스타일 가이드라인을 준수해주세요.
+4.  변경 사항을 테스트하고, 특히 로직 변경 시에는 다양한 입력에 대해 테스트해주세요. (필요한 경우 테스트 코드 작성)
+5.  커밋 메시지는 간결하고 명확하게 작성해주세요. 변경 사항이 어떤 도구에 영향을 미치는지 명시하면 좋습니다. (예: `feat(SfM): Add bundle adjustment option`, `fix(Viewer): Handle PLY loading exception for #22`)
+6.  **[3D-reconstruction-tools Pull Requests 페이지](https://github.com/nopigom119/3D-reconstruction-tools/pulls)** 로 풀 리퀘스트를 보내주세요.
 
 ### 3. 문서 기여
 
@@ -40,16 +40,16 @@
 
 ## 풀 리퀘스트 절차
 
-1.  포크한 저장소에서 브랜치를 만들고 코드를 작성해주세요.
-2.  변경 사항을 커밋해주세요.
-3.  원격 저장소(자신의 포크)에 변경 사항을 푸시해주세요.
-4.  **[[Your Project Repository Name] Pull Requests 페이지](https://github.com/[Your GitHub Username]/[Your Project Repository Name]/pulls)** 에서 원본 저장소로 Pull Request를 생성해주세요.
-5.  풀 리퀘스트 내용을 확인하고, 어떤 문제를 해결하거나 어떤 기능을 추가하는지 명확히 설명해주세요.
-6.  리뷰어의 리뷰를 반영하여 풀 리퀘스트를 최종 확정해주세요.
+1.  포크한 저장소에서 브랜치를 만들고 코드를 작성해주세요.
+2.  변경 사항을 커밋해주세요.
+3.  원격 저장소(자신의 포크)에 변경 사항을 푸시해주세요.
+4.  **[3D-reconstruction-tools Pull Requests 페이지](https://github.com/nopigom119/3D-reconstruction-tools/pulls)** 에서 원본 저장소로 Pull Request를 생성해주세요.
+5.  풀 리퀘스트 내용을 확인하고, 어떤 문제를 해결하거나 어떤 기능을 추가하는지 명확히 설명해주세요.
+6.  리뷰어의 리뷰를 반영하여 풀 리퀘스트를 최종 확정해주세요.
 
 ## 문의
 
-* 본 도구 모음에 대한 문의는 **[[Your Project Repository Name] Issues 페이지](https://github.com/[Your GitHub Username]/[Your Project Repository Name]/issues)** 를 이용해주세요.
+* 본 도구 모음에 대한 문의는 **[3D-reconstruction-tools Issues 페이지](https://github.com/nopigom119/3D-reconstruction-tools/issues)** 를 이용해주세요.
 
 ## 라이선스
 
@@ -66,19 +66,19 @@ We appreciate any form of contribution, be it bug fixes, feature additions, or d
 
 ### 1. Reporting Issues
 
-* Please register new feature suggestions or bug reports on the **[[Your Project Repository Name] Issues page](https://github.com/[Your GitHub Username]/[Your Project Repository Name]/issues)**.
+* Please register new feature suggestions or bug reports on the **[3D-reconstruction-tools Issues page](https://github.com/nopigom119/3D-reconstruction-tools/issues)**.
 * Make sure the issue title is concise and clear (e.g., "[SfM] Improve logging on PnP failure", "[Viewer] Loading error for specific PLY file").
 * Provide detailed descriptions of the problem (which tool, what input, what is the issue) or suggestion in the issue content. Attaching screenshots or log messages is helpful.
 
 ### 2. Contributing Code
 
-1.  Fork the **[[Your Project Repository Name] repository](https://github.com/[Your GitHub Username]/[Your Project Repository Name])**.
-2.  Create a new branch in the forked repository and write the code.
-    * Include the tool name being contributed to, feature name, or issue number in the branch name (e.g., `feature/sfm-bundle-adjustment`, `bugfix/k-estimator-path-error-15`).
-3.  Follow the [PEP 8](https://www.python.org/dev/peps/pep-0008/) coding style guidelines when writing the code.
-4.  Test the changes, especially with various inputs if logic is modified. (Write test code if necessary).
-5.  Write concise and clear commit messages. Specifying which tool the change affects is recommended. (e.g., `feat(SfM): Add bundle adjustment option`, `fix(Viewer): Handle PLY loading exception for #22`).
-6.  Submit a pull request to the **[[Your Project Repository Name] Pull Requests page](https://github.com/[Your GitHub Username]/[Your Project Repository Name]/pulls)**.
+1.  Fork the **[3D-reconstruction-tools repository](https://github.com/nopigom119/3D-reconstruction-tools)**.
+2.  Create a new branch in the forked repository and write the code.
+    * Include the tool name being contributed to, feature name, or issue number in the branch name (e.g., `feature/sfm-bundle-adjustment`, `bugfix/k-estimator-path-error-15`).
+3.  Follow the [PEP 8](https://www.python.org/dev/peps/pep-0008/) coding style guidelines when writing the code.
+4.  Test the changes, especially with various inputs if logic is modified. (Write test code if necessary).
+5.  Write concise and clear commit messages. Specifying which tool the change affects is recommended. (e.g., `feat(SfM): Add bundle adjustment option`, `fix(Viewer): Handle PLY loading exception for #22`).
+6.  Submit a pull request to the **[3D-reconstruction-tools Pull Requests page](https://github.com/nopigom119/3D-reconstruction-tools/pulls)**.
 
 ### 3. Contributing to Documentation
 
@@ -99,16 +99,16 @@ We appreciate any form of contribution, be it bug fixes, feature additions, or d
 
 ## Pull Request Procedure
 
-1.  Create a branch in the forked repository and write the code.
-2.  Commit the changes.
-3.  Push the changes to your remote repository (your fork).
-4.  Create a Pull Request from your fork to the original repository on the **[[Your Project Repository Name] Pull Requests page](https://github.com/[Your GitHub Username]/[Your Project Repository Name]/pulls)**.
-5.  Review the pull request content and clearly explain the problem it solves or the feature it adds.
-6.  Reflect the reviewer's feedback and finalize the pull request.
+1.  Create a branch in the forked repository and write the code.
+2.  Commit the changes.
+3.  Push the changes to your remote repository (your fork).
+4.  Create a Pull Request from your fork to the original repository on the **[3D-reconstruction-tools Pull Requests page](https://github.com/nopigom119/3D-reconstruction-tools/pulls)**.
+5.  Review the pull request content and clearly explain the problem it solves or the feature it adds.
+6.  Reflect the reviewer's feedback and finalize the pull request.
 
 ## Inquiries
 
-* For inquiries about this tool suite, please use the **[[Your Project Repository Name] Issues page](https://github.com/[Your GitHub Username]/[Your Project Repository Name]/issues)**.
+* For inquiries about this tool suite, please use the **[3D-reconstruction-tools Issues page](https://github.com/nopigom119/3D-reconstruction-tools/issues)**.
 
 ## License
 
