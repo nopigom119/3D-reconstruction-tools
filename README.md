@@ -30,9 +30,6 @@ This tool suite is provided as standalone executable files (`.exe`) that can be 
 
 각 도구는 독립적인 실행 파일(`.exe`)로 제공되어 복잡한 설정 없이 간편하게 사용할 수 있도록 만들어졌습니다. 아래에서 각 도구의 상세한 기능과 사용 방법을 확인할 수 있습니다.
 
----
-*(이 아래에 각 도구별 README 내용을 순서대로 추가하시면 됩니다.)*
-
 --------------------------------------------------------------------------
 
 # 2D Image-Based 3D Reconstruction Tool Suite
@@ -45,9 +42,6 @@ This repository contains a suite of GUI-based tools designed to facilitate the c
 4.  **PLY File Viewer:** Visually inspects the generated 3D model files in `.ply` format.
 
 Each tool is provided as a standalone executable (`.exe`) designed for ease of use without complex setup. Detailed functionality and usage instructions for each tool can be found below.
-
----
-*(You can add the README content for each tool sequentially below this section.)*
 
 ##########################################################################
 # 이미지 일괄 변환 및 이름 변경 프로그램
