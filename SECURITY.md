@@ -35,7 +35,7 @@
 
 ## 연락처
 
-보안 관련 문의는 **[Your Security Contact Email Address Here]** 으로 연락 주시기 바랍니다.
+보안 관련 문의는 **[rycbabd@gmail.com]** 으로 연락 주시기 바랍니다.
 
 --------------------------------------------------------------------------
 
@@ -76,4 +76,4 @@ This security policy applies to all versions of all tools included in the **2D I
 
 ## Contact
 
-For security-related inquiries, please contact us at **[Your Security Contact Email Address Here]**.
+For security-related inquiries, please contact us at **[rycbabd@gmail.com]**.
