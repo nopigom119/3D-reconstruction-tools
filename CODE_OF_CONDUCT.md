@@ -25,14 +25,15 @@
 
 ## 문제 해결
 
-본 행동 강령을 위반하는 행위를 목격하거나 경험했을 경우, **[[Your Project Repository Name] 이슈 페이지](https://github.com/[Your GitHub Username]/[Your Project Repository Name]/issues)** 또는 프로젝트 관리자에게 직접 연락하여 알려주시기 바랍니다. (필요시 관리자 연락처 명시)
+## 문제 해결
+
+본 행동 강령을 위반하는 행위를 목격하거나 경험했을 경우, **[3D-reconstruction-tools 이슈 페이지](https://github.com/nopigom119/3D-reconstruction-tools/issues)** 또는 프로젝트 관리자에게 직접 연락하여 알려주시기 바랍니다. (rycbabd@gmail.com)
 
 모든 보고는 신중하게 검토될 것이며, 보고자의 신원은 최대한 보호됩니다. 관리자는 보고된 사안을 조사하고 행동 강령 위반 시 경고, 임시 또는 영구적인 참여 제한 등 적절하고 공정한 조치를 취할 것입니다.
 
 ## 문의
 
-본 행동 강령에 대한 문의사항이 있다면 **[[Your Project Repository Name] 이슈 페이지](https://github.com/[Your GitHub Username]/[Your Project Repository Name]/issues)** 를 통해 질문해주시기 바랍니다.
-
+본 행동 강령에 대한 문의사항이 있다면 **[3D-reconstruction-tools 이슈 페이지](https://github.com/nopigom119/3D-reconstruction-tools/issues)** 를 통해 질문해주시기 바랍니다.
 --------------------------------------------------------------------------
 
 # 2D Image-Based 3D Reconstruction Tool Suite Code of Conduct
@@ -62,10 +63,10 @@ The following behaviors are unacceptable within this community:
 
 ## Problem Solving
 
-If you witness or experience behavior that violates this Code of Conduct, please report it by contacting the project maintainers directly (specify contact method if desired, e.g., email) or by opening an issue on the **[[Your Project Repository Name] Issues page](https://github.com/[Your GitHub Username]/[Your Project Repository Name]/issues)**.
+If you witness or experience behavior that violates this Code of Conduct, please report it by contacting the project maintainers directly (rycbabd@gmail.com) or by opening an issue on the **[3D-reconstruction-tools Issues page](https://github.com/nopigom119/3D-reconstruction-tools/issues)**.
 
 All reports will be reviewed seriously and confidentially. The project maintainers are committed to investigating reported incidents and taking appropriate and fair action, which may include warnings, temporary suspension, or permanent expulsion from the project community.
 
 ## Inquiries
 
-If you have any questions about this Code of Conduct, please ask them via the **[[Your Project Repository Name] Issues page](https://github.com/[Your GitHub Username]/[Your Project Repository Name]/issues)**.
+If you have any questions about this Code of Conduct, please ask them via the **[3D-reconstruction-tools Issues page](https://github.com/nopigom119/3D-reconstruction-tools/issues)**.
