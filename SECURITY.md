@@ -4,7 +4,7 @@
 
 ## 취약점 보고
 
-본 프로젝트(포함된 개별 도구 포함)에서 보안 취약점을 발견한 경우, **[Your Security Contact Email Address Here]** 으로 보고해 주시기 바랍니다.
+본 프로젝트(포함된 개별 도구 포함)에서 보안 취약점을 발견한 경우, **[rycbabd@gmail.com]** 으로 보고해 주시기 바랍니다.
 
 책임감 있는 제보에 감사드리며, 보고된 문제를 신속하고 신중하게 검토하고 해결하기 위해 최선을 다하겠습니다. 보안 문제를 공개적으로 논의하기 전에 저희에게 연락하여 조치할 시간을 주시기 바랍니다.
 
@@ -45,7 +45,7 @@ This document outlines the security policy for the **2D Image-Based 3D Reconstru
 
 ## Reporting Vulnerabilities
 
-If you discover a security vulnerability within this project (including any of the individual tools provided), please report it to us privately via email at **[Your Security Contact Email Address Here]**.
+If you discover a security vulnerability within this project (including any of the individual tools provided), please report it to us privately via email at **[rycbabd@gmail.com]**.
 
 We appreciate your responsible disclosure and will make every effort to acknowledge and address the issue promptly and carefully. Please refrain from discussing the vulnerability publicly until we have had a chance to respond and address it.
 
